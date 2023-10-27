@@ -10,7 +10,7 @@ int main(){
     
     
 
-    dizi=kisiEkle("Betül","Köse",1,dizi);
+    dizi=kisiEkle("Meryem","Gül",1,dizi);
     dizi=kisiEkle("Burak","Gül",1,dizi);
     listeyiYazdir(dizi);
 
